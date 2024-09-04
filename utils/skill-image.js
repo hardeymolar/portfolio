@@ -45,6 +45,7 @@ import mongoDB from '/public/svg/skills/mongoDB.svg';
 import mysql from '/public/svg/skills/mysql.svg';
 import nextJS from '/public/svg/skills/nextJS.svg';
 import nginx from '/public/svg/skills/nginx.svg';
+import nodeJs from '/public/svg/skills/nodejs.svg';
 import numpy from '/public/svg/skills/numpy.svg';
 import nuxtJS from '/public/svg/skills/nuxtJS.svg';
 import opencv from '/public/svg/skills/opencv.svg';
@@ -97,6 +98,8 @@ export const skillsImage = (skill) => {
       return angular;
     case 'javascript':
       return javascript;
+    case 'node js':
+      return nodeJs;
     case 'next js':
       return nextJS;
     case 'nuxt js':
