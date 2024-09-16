@@ -1,9 +1,9 @@
 export const experiences = [
   {
     id: 1,
-    title: "Back-end Developer",
-    company: "HNG (Intern)",
-    duration: "(Sept 2023 - Nov 2023)"
+    title: "Software Developer",
+    company: " CODMIFY ",
+    duration: "(Jan 2021 - Present)"
   },
   {
     id: 2,
@@ -13,14 +13,8 @@ export const experiences = [
   },
   {
     id: 3,
-    title: "Software Developer",
-    company: " FICHUB (co-founder) ",
-    duration: "(Jan 2020 - Present)"
+    title: "Back-end Developer intern",
+    company: "Hotels.NG",
+    duration: "(Sept 2023 - Nov 2023)"
   },
-  {
-    id: 4,
-    title: "Self Employed",
-    company: "Freelance(Code and build something in everyday.)",
-    duration: "(Jan 2020 - Present)"
-  }
 ]
