@@ -8,7 +8,7 @@ export const projectsData = [
         id: 1,
         name: 'Flagged',
         description: 'I and my team designed and developed a desktop app for mail attack detection, where available all mails received(by employees of a registered company) are being analysed for possible attack and the threat detected is being logged to the dashboard of the company. The app uses a mail pluggin to read messages received and use an AI to analyse for threats. I developed the API using NestJS, Typescript, MySQL, and Redis.',
-        tools: ["NestJS", "TypeScript", "MySQL", "Redis","Zod","Stripe"],
+        tools: ["NestJS", "TypeScript", "MySQL", "Redis","Stripe"],
         role: 'Backend Developer',
         code: '',
         demo: '',

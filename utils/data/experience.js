@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: "Software Developer",
+    title: "Software Enginner",
     company: " CODMIFY ",
-    duration: "(Jan 2021 - Present)"
+    duration: "(May 2022 - Present)"
   },
   {
     id: 2,
-    title: "Tech Support",
+    title: "Backend Developer",
     company: " AITI ",
-    duration: "(Jan 2023 - Jan 2024)"
+    duration: "(July 2023 - Jan 2024)"
   },
   {
     id: 3,
-    title: "Back-end Developer intern",
-    company: "Hotels.NG",
-    duration: "(Sept 2023 - Nov 2023)"
+    title: "Backend Developer",
+    company: "Flagged",
+    duration: "(Aug 2024 - Nov 2024)"
   },
 ]

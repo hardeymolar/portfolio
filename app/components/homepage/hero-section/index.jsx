@@ -120,6 +120,8 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">GIT</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">NestJs</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Express</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">JavaScript</span>
